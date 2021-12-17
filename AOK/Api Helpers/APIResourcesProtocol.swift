@@ -9,7 +9,7 @@ import Foundation
 import Combine
 
 /**
- Protocos for DI and for better Testing
+ Protocols for DI and for better Testing
  */
 
 protocol APIResourcesProtocol {
